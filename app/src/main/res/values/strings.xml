@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FITI-UB Lector QR</string>
+    <string name="scan_barcode_text">Scan Barcode</string>
+    <string name="main_activity_name">FITI-UB Lector QR</string>
+    <string name="barcode_capture_activity_name">Scan Barcode</string>
+    <string name="low_storage_error">Barcode detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="ok">OK</string>
+    <string name="no_barcode_captured">No barcode captured</string>
+    <string name="barcode_error_format">\"Error reading barcode: %1$s\"</string>
+    <string name="barcode_information_activity_name">Barcode Information</string>
+</resources>

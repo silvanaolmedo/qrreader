@@ -1,0 +1,662 @@
+{
+  "1": [
+    {
+      "dayOfWeek": 1,
+      "classesDetails": [
+        {
+          "name": "Base de Datos 1",
+          "courseOfStudy": "501",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Albamonte"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 2,
+      "classesDetails": [
+        {
+          "name": "Algoritmos y Complejidad",
+          "courseOfStudy": "501",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Moscuzza"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 3,
+      "classesDetails": [
+        {
+          "name": "Programación 3",
+          "courseOfStudy": "501",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Cicinelli"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 4,
+      "classesDetails": [
+        {
+          "name": "Programación 1",
+          "courseOfStudy": "501",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. Cicinelli"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 5,
+      "classesDetails": [
+        {
+          "name": "Programación 1",
+          "courseOfStudy": "501",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. Cicinelli"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "20:30:00"
+        },
+        {
+          "name": "Programación 3",
+          "courseOfStudy": "501",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Cicinelli"
+          ],
+          "startTime": "20:30:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "dayOfWeek": 1,
+      "classesDetails": [
+        {
+          "name": "Org. y Sistemas de Información",
+          "courseOfStudy": "501",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. JA. Fernandez"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 2,
+      "classesDetails": []
+    },
+    {
+      "dayOfWeek": 3,
+      "classesDetails": []
+    },
+    {
+      "dayOfWeek": 4,
+      "classesDetails": [
+        {
+          "name": "Computación B. en Redes",
+          "courseOfStudy": "501",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Menal"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 5,
+      "classesDetails": [
+        {
+          "name": "Optativa. Gestión Estratégica de la Empresa",
+          "instructors": [
+            "Prof. Mengide", 
+            "Prof. Alonso", 
+            "Prof. Lestani"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "dayOfWeek": 1,
+      "classesDetails": [
+        {
+          "name": "Análisis Numérico",
+          "courseOfStudy": "502",
+          "courseYear": "3A",
+          "instructors": [
+            "Prof. Cicinelli"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Seguridad y Audit. Informática",
+          "courseOfStudy": "501 y 502",
+          "courseYear": "3A y 4A",
+          "instructors": [
+            "Prof. Aldegani",
+            "Prof. Ceballos"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 2,
+      "classesDetails": [
+      	{
+          "name": "Base de Datos 1",
+          "courseOfStudy": "502",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Titiosky"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Curso Big Data",
+          "instructors": [
+            "Prof. Tozzi"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 3,
+      "classesDetails": [
+      	{
+          "name": "Programación 3",
+          "courseOfStudy": "502",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Matuk"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Sistemas Operativos",
+          "courseOfStudy": "560",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. Aguilera"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 4,
+      "classesDetails": [
+        {
+          "name": "Ciencia, Tecnología y Sociedad",
+          "courseOfStudy": "502",
+          "courseYear": "3A",
+          "instructors": [
+            "Prof. Aguilera"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "09:30:00"
+        },
+        {
+          "name": "Práctica Profesional 2",
+          "courseOfStudy": "502",
+          "courseYear": "3A",
+          "instructors": [
+            "Prof. Titiosky"
+          ],
+          "startTime": "09:30:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Curso Interfaces Avanzadas",
+          "instructors": [
+            "Prof. Mitaritonna"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 5,
+      "classesDetails": [
+        {
+          "name": "Física 3",
+          "instructors": [
+            "Prof. Duran"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Lenguajes de Programación",
+          "instructors": [
+            "Prof. Piccin",
+            "Prof. Pandolfo"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "dayOfWeek": 1,
+      "classesDetails": []
+    },
+    {
+      "dayOfWeek": 2,
+      "classesDetails": [
+      	{
+          "name": "Ciencia, Tecnología y Sociedad",
+          "courseOfStudy": "501",
+          "courseYear": "3A",
+          "instructors": [
+            "Prof. Aguilera"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "20:30:00"
+        },
+        {
+          "name": "Práctica Profesional 2",
+          "courseOfStudy": "501",
+          "courseYear": "3A",
+          "instructors": [
+            "Prof. Cosentino"
+          ],
+          "startTime": "20:30:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 3,
+      "classesDetails": [
+      	{
+          "name": "Habilitación Profesional A",
+          "courseOfStudy": "501",
+          "courseYear": "4A",
+          "instructors": [
+            "Prof. Angeleri",
+            "Prof. Piedrabuena"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 4,
+      "classesDetails": [
+        {
+          "name": "Diseño de Compiladores",
+          "courseOfStudy": "501",
+          "courseYear": "4A",
+          "instructors": [
+            "Prof. Pandolfo",
+            "Prof. Piccin"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 5,
+      "classesDetails": []
+    }
+  ],
+  "5": [
+    {
+      "dayOfWeek": 1,
+      "classesDetails": [
+      	{
+          "name": "Física 3",
+          "courseOfStudy": "502",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Hayes"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Programación 2",
+          "courseOfStudy": "560",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. Cicinelli"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 2,
+      "classesDetails": [
+      	{
+          "name": "Programación 1",
+          "courseOfStudy": "502",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. Cicinelli"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Programación 2",
+          "courseOfStudy": "560",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. Cicinelli"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 3,
+      "classesDetails": [
+      	{
+          "name": "Programación 1",
+          "courseOfStudy": "502",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. Cicinelli"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "09:30:00"
+        },
+        {
+          "name": "Base de Datos 2",
+          "courseOfStudy": "501 y 502",
+          "courseYear": "3A y 4A",
+          "instructors": [
+            "Prof. Toro",
+            "Prof. Tozzi"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 4,
+      "classesDetails": [
+        {
+          "name": "Práctica Profesional 1",
+          "courseOfStudy": "502",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. Greiner"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "09:30:00"
+        },
+        {
+          "name": "Sistemas Inteligentes",
+          "courseOfStudy": "501 y 502",
+          "courseYear": "3A y 4A",
+          "instructors": [
+            "Prof. Piccin"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 5,
+      "classesDetails": [
+      	{
+          "name": "Requisitos de Software",
+          "courseOfStudy": "560",
+          "courseYear": "1A",
+          "instructors": [
+            "Prof. Greiner"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    }
+  ],
+  "6": [
+    {
+      "dayOfWeek": 1,
+      "classesDetails": [
+      	{
+          "name": "Sistemas Operativos Avanzados",
+          "courseOfStudy": "501 y 502",
+          "courseYear": "4A y 5A",
+          "instructors": [
+            "Prof. Aguilera"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 2,
+      "classesDetails": [
+      	{
+          "name": "Técnicas Digitales",
+          "courseOfStudy": "502",
+          "courseYear": "3A",
+          "instructors": [
+            "Prof. Puyol"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Prog. Base de Datos",
+          "courseOfStudy": "560",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Barron",
+            "Prof. Albamonte"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 3,
+      "classesDetails": [
+      	{
+          "name": "Técnicas Digitales",
+          "courseOfStudy": "502",
+          "courseYear": "3A",
+          "instructors": [
+            "Prof. Puyol"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "09:30:00"
+        },
+        {
+          "name": "Arq. y Org. de Computadoras",
+          "courseOfStudy": "502",
+          "courseYear": "3A",
+          "instructors": [
+            "Prof. Duran"
+          ],
+          "startTime": "09:30:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Seg. Hig. M. Ambiente",
+          "courseOfStudy": "502",
+          "courseYear": "5A",
+          "instructors": [],
+          "startTime": "19:00:00",
+          "endTime": "20:30:00"
+        },
+        {
+          "name": "Taller de Tesina",
+          "courseOfStudy": "502",
+          "courseYear": "5A",
+          "instructors": [
+          	"Prof. Mitarintonna"
+          ],
+          "startTime": "20:30:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 4,
+      "classesDetails": [
+        {
+          "name": "Radio/TV",
+          "instructors": [
+            "Prof. Natalia Delfino",
+            "Prof. Hugo Furno"
+          ],
+          "startTime": "08:00:00",
+          "endTime": "12:45:00"
+        },
+        {
+          "name": "Seguridad Informática",
+          "courseOfStudy": "560",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Aldegani"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 5,
+      "classesDetails": [
+      	{
+          "name": "Arq. y Org. de Computadoras",
+          "courseOfStudy": "502",
+          "courseYear": "3A",
+          "instructors": [
+            "Prof. Duran"
+          ],
+          "startTime": "09:30:00",
+          "endTime": "12:45:00"
+        }
+      ]
+    }
+  ],
+  "7": [
+    {
+      "dayOfWeek": 1,
+      "classesDetails": [
+      	{
+          "name": "Proyecto Construcción de Software",
+          "courseOfStudy": "560",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Greiner"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 2,
+      "classesDetails": [
+      	{
+          "name": "Habilitación Profesional B",
+          "courseOfStudy": "502",
+          "courseYear": "5A",
+          "instructors": [
+            "Prof. Reinosa"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 3,
+      "classesDetails": [
+      	{
+          "name": "Programación en Ambientes de Redes",
+          "courseOfStudy": "560",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Wittbecker"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 4,
+      "classesDetails": [
+        {
+          "name": "Redes de Datos 2",
+          "courseOfStudy": "502",
+          "courseYear": "5A",
+          "instructors": [
+            "Prof. Fernandez Crocco"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 5,
+      "classesDetails": [
+      	{
+          "name": "Proyecto Construcción de Software",
+          "courseOfStudy": "560",
+          "courseYear": "2A",
+          "instructors": [
+            "Prof. Renard"
+          ],
+          "startTime": "19:00:00",
+          "endTime": "22:30:00"
+        }
+      ]
+    }
+  ]
+}
